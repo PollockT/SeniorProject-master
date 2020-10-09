@@ -90,7 +90,7 @@ namespace ServiceDesk.Data
         private static Employee[] _employee = {
             new Employee {
                 Address = "Building 3 Room 11",
-                Company = "Billing",
+                Department = "Billing",
                 EmailAddress = "Salgado@TulsaPreTech.com",
                 FirstName = "Elizebeth",
                 LastName = "Salgado",
@@ -98,7 +98,7 @@ namespace ServiceDesk.Data
             },
             new Employee {
                 Address = "Building 3 Room 17",
-                Company = "Shipping",
+                Department = "Shipping",
                 EmailAddress = "Streater@TulsaPreTech.com",
                 FirstName = "Maddie",
                 LastName = "Streater",
@@ -106,7 +106,7 @@ namespace ServiceDesk.Data
             },
             new Employee {
                 Address = "Building 1 Room 145",
-                Company = "Legal",
+                Department = "Legal",
                 EmailAddress = "Noffsinger@TulsaPreTech.com",
                 FirstName = "Chrissy",
                 LastName = "Noffsinger",
@@ -114,7 +114,7 @@ namespace ServiceDesk.Data
             },
             new Employee {
                 Address = "Building 2 Room 489",
-                Company = "Development",
+                Department = "Development",
                 EmailAddress = "Max@TulsaPreTech.com",
                 FirstName = "Eufemia",
                 LastName = "Max",
@@ -122,7 +122,7 @@ namespace ServiceDesk.Data
             },
             new Employee {
                 Address = "Building 3 Room 104 ",
-                Company = "Administrative",
+                Department = "Administrative",
                 EmailAddress = "Honea@TulsaPreTech.com",
                 FirstName = "Teresa",
                 LastName = "Honea",
@@ -130,7 +130,7 @@ namespace ServiceDesk.Data
             },
             new Employee {
                 Address = "Building 3 Room 105",
-                Company = "Administrative",
+                Department = "Administrative",
                 EmailAddress = "Haydon@TulsaPreTech.com",
                 FirstName = "Kendrick",
                 LastName = "Haydon",
@@ -138,7 +138,7 @@ namespace ServiceDesk.Data
             },
             new Employee {
                 Address = "Building 2 Room 15",
-                Company = "Administrative",
+                Department = "Administrative",
                 EmailAddress = "Bernardo@TulsaPreTech.com",
                 FirstName = "Napoleon",
                 LastName = "Bernardo",
@@ -146,7 +146,7 @@ namespace ServiceDesk.Data
             },
             new Employee {
                 Address = "Building 1 Room 323",
-                Company = "Human Resources",
+                Department = "Human Resources",
                 EmailAddress = "Rigdon@TulsaPreTech.com",
                 FirstName = "Jule",
                 LastName = "Rigdon",
@@ -154,7 +154,7 @@ namespace ServiceDesk.Data
             },
             new Employee {
                 Address = "Building 2 Room 25",
-                Company = "Human Resources",
+                Department = "Human Resources",
                 EmailAddress = "Spady@TulsaPreTech.com",
                 FirstName = "Michaela",
                 LastName = "Spady",
@@ -162,7 +162,7 @@ namespace ServiceDesk.Data
             },
             new Employee {
                 Address = "Building 2 Room 23",
-                Company = "Human Resources",
+                Department = "Human Resources",
                 EmailAddress = "Y-Raley@TulsaPreTech.com",
                 FirstName = "Derek",
                 LastName = "Raley",
@@ -170,7 +170,7 @@ namespace ServiceDesk.Data
             },
             new Employee {
                 Address = "Building 3 Room ",
-                Company = "Billing",
+                Department = "Billing",
                 EmailAddress = "Messineo@TulsaPreTech.com",
                 FirstName = "Lindsy",
                 LastName = "Messineo",
@@ -178,7 +178,7 @@ namespace ServiceDesk.Data
             },
             new Employee {
                 Address = "Building 2 Room 904",
-                Company = "Administrative",
+                Department = "Administrative",
                 EmailAddress = "Strohm@TulsaPreTech.com",
                 FirstName = "Reggie",
                 LastName = "Strohm",
@@ -186,7 +186,7 @@ namespace ServiceDesk.Data
             },
             new Employee {
                 Address = "Building 2 Room 151",
-                Company = "Administrative",
+                Department = "Administrative",
                 EmailAddress = "Troia@TulsaPreTech.com",
                 FirstName = "Sheilah",
                 LastName = "Troia",
@@ -194,7 +194,7 @@ namespace ServiceDesk.Data
             },
             new Employee {
                 Address = "Building 1 Room 298",
-                Company = "Legal",
+                Department = "Legal",
                 EmailAddress = "Modesto@TulsaPreTech.com",
                 FirstName = "Vivien",
                 LastName = "Modesto",
@@ -202,7 +202,7 @@ namespace ServiceDesk.Data
             },
             new Employee {
                 Address = "Building 1 Room 287",
-                Company = "Legal",
+                Department = "Legal",
                 EmailAddress = "Days@TulsaPreTech.com",
                 FirstName = "Evia",
                 LastName = "Days",
